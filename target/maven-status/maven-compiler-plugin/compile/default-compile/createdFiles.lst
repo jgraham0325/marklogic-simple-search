@@ -1,0 +1,4 @@
+com\marklogic\example\SearchService$SearchPojo.class
+com\marklogic\example\SearchService.class
+com\marklogic\example\SearchService$SearchResultObject.class
+com\marklogic\example\Search.class
